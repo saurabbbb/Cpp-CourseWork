@@ -1,0 +1,42 @@
+Car Registration Number: AB1234
+Car Color: Red
+Seats: 4
+Bike Registration Number: XY5678
+Bike Color: Black
+Engine Capacity: 150cc
+Car Registration Number: AB1234
+Car Color: Red
+Seats: 4
+Bike Registration Number: XY5678
+Bike Color: Black
+Engine Capacity: 150cc
+Car Registration Number: Ba 12 Pa 1234
+Car Color: Red
+Seats: 4
+Bike Registration Number: Ga 34 Pa 5678
+Bike Color: Black
+Engine Capacity: 150cc
+Car Registration Number: Ba 23 Pa 2345
+Car Color: Blue
+Seats: 5
+Bike Registration Number: Sa 56 Pa 6789
+Bike Color: White
+Engine Capacity: 200cc
+Car Registration Number: Ka 78 Pa 3456
+Car Color: Silver
+Seats: 4
+Car Registration Number: Ba 12 Pa 1234
+Car Color: Red
+Seats: 4
+Bike Registration Number: Ga 34 Pa 5678
+Bike Color: Black
+Engine Capacity: 150cc
+Car Registration Number: Ba 23 Pa 2345
+Car Color: Blue
+Seats: 5
+Bike Registration Number: Sa 56 Pa 6789
+Bike Color: White
+Engine Capacity: 200cc
+Car Registration Number: Ka 78 Pa 3456
+Car Color: Silver
+Seats: 4
